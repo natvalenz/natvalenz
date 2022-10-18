@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nataly Valenzuela 
-- 👀 I’m interested in growing my data science skills me knowledge.
+- 👀 I’m interested in finding a job and growing my data science skills and knowledge.
 - 🌱 I’m currently learning about Tableau and Cities with the Best Tacos data.
 - 💞️ I’m looking to collaborate on interesting datasets
 - 📫 How to reach me natmullen20@gmail.com
